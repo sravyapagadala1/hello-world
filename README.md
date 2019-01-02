@@ -1,2 +1,2 @@
 # hello-world
-This is my fdemo git repository
+This is my first demo git repository
